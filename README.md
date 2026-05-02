@@ -77,3 +77,8 @@ This project demonstrates how machine learning can significantly:
 ## 📄 License
 
 This project is for educational and research purposes.
+
+## 📄 Author
+
+MOHAMMED MUFAQQAM SANJAR GHORI.
+
